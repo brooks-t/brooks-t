@@ -1,22 +1,19 @@
 # Brooks Tiffany
-## Front-end Web Developer with Professional UX Background
-Over the past decade, I’ve served around the world with the US Air Force, earned a B.A. in English with a focus on technical communication, and filled multiple roles for a fast-paced software startup. I've earned a M.S. in Human Centered Design and Engineering and have 4+ years of experience working as a UX Researcher and Designer at Kaiser Permanente Washington Health Research Institute where I researched, designed, and developed health technologies.
+## Full Stack Designer
+I'm a Full Stack Designer with a strong foundation in UX Design and Research. I'm passionate about building intuitive and user-centered digital experiences from concept to code. My expertise spans the entire product lifecycle, from conducting user research and creating wireframes to developing front-end interfaces with HTML, CSS, and JavaScript. I believe in bridging the gap between design and development to create seamless and impactful solutions.
 
-I earned a certificate in full-stack web-development through the University of Washington in June 2021. In my repos, you'll find an assortment of apps that showcase the different web-development skills I learned in the Bootcamp and on my own.
+I have a Master's degree in Human Centered Design and Engineering and a Certificate in Full Stack Web Development, both from the University of Washington.
 
-Those skills include:
-- JavaScript
+My skills incude:
+- Wireframing
+- Prototyping
+- UI Design
+- User Research
+- Usability Testing
 - HTML/CSS
-- React
-- Next.js
-- Git
-- jQuery
-- Bootstrap
+- JavaScript
 - Tailwind
-- SaSS
+- Bootstrap
+- React
 - Typescript
-- Node.js
-- Express.js
-- MySQL
-- NoSQL
 - API Consumption
