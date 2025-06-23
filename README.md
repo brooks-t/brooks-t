@@ -1,5 +1,5 @@
 # Brooks Tiffany
-## UI/UX Designer | Front-End Developer | AI & Data-Driven UX Strategist
+## UI/UX Designer & Researcher | Front-End Developer | AI & Data-Driven UX Strategist
 
 I'm a UI/UX Designer with 7+ years of experience crafting impactful, user-centered digital experiences for federal government, healthcare, and startup sectors. I bridge the gap between design and development, owning the end-to-end product lifecycle from comprehensive user research and strategic design to front-end implementation.
 
