@@ -1,19 +1,10 @@
 # Brooks Tiffany
-## Full Stack Designer
-I'm a Full Stack Designer with a strong foundation in UX Design and Research. I'm passionate about building intuitive and user-centered digital experiences from concept to code. My expertise spans the entire product lifecycle, from conducting user research and creating wireframes to developing front-end interfaces with HTML, CSS, and JavaScript. I believe in bridging the gap between design and development to create seamless and impactful solutions.
+## UI/UX Designer | Front-End Developer | AI & Data-Driven UX Strategist
 
-I have a Master's degree in Human Centered Design and Engineering as well as a Certificate in Full Stack Web Development, both from the University of Washington.
+I'm a UI/UX Designer with 7+ years of experience crafting impactful, user-centered digital experiences for federal government, healthcare, and startup sectors. I bridge the gap between design and development, owning the end-to-end product lifecycle from comprehensive user research and strategic design to front-end implementation.
 
-My skills incude:
-- Wireframing
-- Prototyping
-- UI Design
-- User Research
-- Usability Testing
-- HTML/CSS
-- JavaScript
-- Tailwind
-- Bootstrap
-- React
-- Typescript
-- API Consumption
+My passion lies in building intuitive, engaging, and accessible solutions (WCAG, Section 508), leveraging modern technologies like React, TypeScript, and AI-powered tools for efficiency. I thrive in collaborative, Agile/Scrum environments and am driven by the mission to create seamless and impactful digital products.
+
+-- Design & Research: Wireframing, Prototyping, UI Design, User Research, Usability Testing, Information Architecture, Design Systems
+-- Web Technologies: HTML/CSS, JavaScript, React, TypeScript, Tailwind, Bootstrap, API Consumption
+-- Tools: Figma, Adobe XD, Git (GitHub, GitLab), Visual Studio Code, AI Code Generation Tools
